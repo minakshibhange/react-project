@@ -1,0 +1,6 @@
+.carousel-item{
+    height: 400px;
+}
+.carousel-item .carousel-caption{
+    color: #000;
+}
